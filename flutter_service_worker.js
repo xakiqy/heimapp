@@ -138,7 +138,7 @@ const RESOURCES = {"android-chrome-192x192.png": "7345cf9812b2d504f0ba538e89e4e2
 "assets/assets/images/unknown.png": "485ffa3c15d33cc554e1ef3758cca9c3",
 "assets/assets/images/wallbox.png": "15c1c3b1f5d56dcaaceabb7ce232f2cc",
 "assets/assets/translations/de.json": "57a76d7674a7636a4ed8d304de480aac",
-"assets/assets/translations/en.json": "a8ca8a37890c278366ce4c16c68309a5",
+"assets/assets/translations/en.json": "335eb27b2f9b0f2d62f7747212db3d49",
 "assets/FontManifest.json": "2b52acee7bee9f34d372a965ef37754f",
 "assets/fonts/MaterialIcons-Regular.otf": "5ef5ffbcc8ccf49530c8377034b1f5ad",
 "assets/NOTICES": "00d1eef69164447d1144189aee035710",
@@ -425,10 +425,10 @@ const RESOURCES = {"android-chrome-192x192.png": "7345cf9812b2d504f0ba538e89e4e2
 "favicon-32x32.png": "becee6cac5d658452a6c6cca0e551286",
 "favicon.ico": "6b47a6e43a868be643fedd78d53b32e4",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "90472e134978aa0d43e6a2630c73e73c",
+"flutter_bootstrap.js": "714d35304e0e23966324e719f8dd8723",
 "index.html": "a93c797f3260ba71378211e25ef9befd",
 "/": "a93c797f3260ba71378211e25ef9befd",
-"main.dart.js": "b7bce4636b5fa33af20a2ba5ad3f112f",
+"main.dart.js": "6ca47a4435796163f4601b67bc9c7f59",
 "manifest.json": "006d06908dab8f78f724bee905644206",
 "version.json": "a2cf51f400f86cbfcfc20103f7d64f1b"};
 // The application shell files that are downloaded before a service worker can
